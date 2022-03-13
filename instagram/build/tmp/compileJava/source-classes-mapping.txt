@@ -1,0 +1,2 @@
+com/example/instagram/MyClass.java
+ com.example.instagram.MyClass

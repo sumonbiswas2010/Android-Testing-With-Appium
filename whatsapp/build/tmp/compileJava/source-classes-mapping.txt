@@ -1,0 +1,2 @@
+com/example/whatsapp/MyClass.java
+ com.example.whatsapp.MyClass
